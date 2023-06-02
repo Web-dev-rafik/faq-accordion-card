@@ -25,12 +25,12 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![](https://github.com/Web-dev-rafik/faq-accordion-card/blob/main/screenshot.png)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Code url](https://github.com/Web-dev-rafik/faq-accordion-card)
+- Live Site URL: [Live site URL](https://web-dev-rafik.github.io/faq-accordion-card/)
 
 ## My process
 
